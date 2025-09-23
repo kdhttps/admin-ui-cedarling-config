@@ -2,7 +2,7 @@
     "cedar_version": "4.4.0",
     "policy_stores": {
         "a817022659d2401a4b0f7c25098793341b71fff9c9fb": {
-            "name": "FrontendAdminUI",
+            "name": "AdminUIFrontend",
             "description": "Admin UI React Frontend policy store",
             "policies": {},
             "trusted_issuers": {},
