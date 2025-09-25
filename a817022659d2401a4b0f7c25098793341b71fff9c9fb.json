@@ -14,6 +14,11 @@
                     "description": "AdminCanManageUserIdentityAndAccess",
                     "creation_date": "2025-09-25T11:25:16.643706",
                     "policy_content": "QGlkKCJBZG1pbkNhbk1hbmFnZVVzZXJJZGVudGl0eUFuZEFjY2VzcyIpCnBlcm1pdCgKICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6ImFkbWluIiwKICBhY3Rpb24gaW4gW0phbnM6OkFjdGlvbjo6ImFkZCIsCiAgSmFuczo6QWN0aW9uOjoidXBkYXRlIiwgSmFuczo6QWN0aW9uOjoidmlldyIsIEphbnM6OkFjdGlvbjo6ImRlbGV0ZSJdLAogIHJlc291cmNlIGlzIEphbnM6OklkZW50aXR5QWNjZXNzUmVzb3VyY2UKKTs="
+                },
+                "195e0e633624b4654c3bd1f699a06826c808fbe5650b": {
+                    "description": "AdminCanManageSystemMonitoring",
+                    "creation_date": "2025-09-25T11:40:24.020443",
+                    "policy_content": "QGlkKCJBZG1pbkNhbk1hbmFnZVN5c3RlbU1vbml0b3JpbmciKQpwZXJtaXQoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJhZG1pbiIsCiAgYWN0aW9uIGluIFtKYW5zOjpBY3Rpb246OiJhZGQiLAogIEphbnM6OkFjdGlvbjo6InVwZGF0ZSIsCiAgSmFuczo6QWN0aW9uOjoidmlldyIsCiAgSmFuczo6QWN0aW9uOjoiZGVsZXRlIl0sCiAgcmVzb3VyY2UgaXMgSmFuczo6U3lzdGVtQW5kTW9uaXRvcmluZ1Jlc291cmNlCik7"
                 }
             },
             "trusted_issuers": {},
