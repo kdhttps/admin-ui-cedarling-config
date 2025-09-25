@@ -1,0 +1,9 @@
+@id("ManagerCanManageClientsScripts")
+permit (
+  principal in Jans::Role::"manager",
+  action in [Jans::Action::"add",
+  Jans::Action::"update",
+  Jans::Action::"view",
+  Jans::Action::"delete"],
+  resource is Jans::ClientsResource
+);
