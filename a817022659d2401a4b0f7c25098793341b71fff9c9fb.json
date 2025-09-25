@@ -9,6 +9,11 @@
                     "description": "AdminCanManageAuthServerConfiguration",
                     "creation_date": "2025-09-24T16:23:47.454734",
                     "policy_content": "QGlkKCJBZG1pbkNhbk1hbmFnZUF1dGhTZXJ2ZXJDb25maWd1cmF0aW9uIikKcGVybWl0KAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiYWRtaW4iLAogIGFjdGlvbiBpbiBbSmFuczo6QWN0aW9uOjoidmlldyIsIEphbnM6OkFjdGlvbjo6InVwZGF0ZSJdLAogIHJlc291cmNlIGlzIEphbnM6OkF1dGhTZXJ2ZXJDb25maWd1cmF0aW9uUmVzb3VyY2UKKTsK"
+                },
+                "2f4f2ea54efa751f08e8df462a187d9a9789b574f438": {
+                    "description": "AdminCanManageUserIdentityAndAccess",
+                    "creation_date": "2025-09-25T11:25:16.643706",
+                    "policy_content": "QGlkKCJBZG1pbkNhbk1hbmFnZVVzZXJJZGVudGl0eUFuZEFjY2VzcyIpCnBlcm1pdCgKICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6ImFkbWluIiwKICBhY3Rpb24gaW4gW0phbnM6OkFjdGlvbjo6ImFkZCIsCiAgSmFuczo6QWN0aW9uOjoidXBkYXRlIiwgSmFuczo6QWN0aW9uOjoidmlldyIsIEphbnM6OkFjdGlvbjo6ImRlbGV0ZSJdLAogIHJlc291cmNlIGlzIEphbnM6OklkZW50aXR5QWNjZXNzUmVzb3VyY2UKKTs="
                 }
             },
             "trusted_issuers": {},
