@@ -1,6 +1,9 @@
 @id("AdminCanManageAuthServerConfiguration")
 permit(
   principal in Jans::Role::"admin",
-  action in [Jans::Action::"view", Jans::Action::"update"],
+  action in [Jans::Action::"add",
+  Jans::Action::"update",
+  Jans::Action::"view",
+  Jans::Action::"delete"],
   resource is Jans::AuthServerConfigurationResource
 );
