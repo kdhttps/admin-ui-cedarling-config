@@ -1,0 +1,7 @@
+@id("SupportStaffCanManageClients")
+permit(
+  principal in Jans::Role::"supportstaff",
+  action in [Jans::Action::"lock",
+  Jans::Action::"unlock"],
+  resource is Jans::UsersResource
+);
