@@ -49,6 +49,11 @@
                     "description": "SupportStaffCanManageClients",
                     "creation_date": "2025-09-26T09:46:52.622614",
                     "policy_content": "QGlkKCJTdXBwb3J0U3RhZmZDYW5NYW5hZ2VDbGllbnRzIikKcGVybWl0KAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoic3VwcG9ydHN0YWZmIiwKICBhY3Rpb24gaW4gW0phbnM6OkFjdGlvbjo6ImxvY2siLAogIEphbnM6OkFjdGlvbjo6InVubG9jayJdLAogIHJlc291cmNlIGlzIEphbnM6OlVzZXJzUmVzb3VyY2UKKTs="
+                },
+                "dd13e3353d846477ce25311e4d6d854916e8ea72feda": {
+                    "description": "EndUserCanManageClients",
+                    "creation_date": "2025-09-26T10:05:23.131259",
+                    "policy_content": "QGlkKCJFbmRVc2VyQ2FuTWFuYWdlQ2xpZW50cyIpCnBlcm1pdCgKICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6ImVuZHVzZXIiLAogIGFjdGlvbiBpbiBbSmFuczo6QWN0aW9uOjoidXBkYXRlIl0sCiAgcmVzb3VyY2UgaXMgSmFuczo6UHJvZmlsZVJlc291cmNlCik7"
                 }
             },
             "trusted_issuers": {},
