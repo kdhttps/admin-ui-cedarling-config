@@ -1,0 +1,6 @@
+@id("EndUserCanManageClients")
+permit(
+  principal in Jans::Role::"enduser",
+  action in [Jans::Action::"update"],
+  resource is Jans::ProfileResource
+);
