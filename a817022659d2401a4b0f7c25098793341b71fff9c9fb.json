@@ -44,6 +44,11 @@
                     "description": "DeveloperCanManageClients",
                     "creation_date": "2025-09-26T09:35:36.650576",
                     "policy_content": "QGlkKCJEZXZlbG9wZXJDYW5NYW5hZ2VDbGllbnRzIikKcGVybWl0KAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiZGV2ZWxvcGVyIiwKICBhY3Rpb24gaW4gW0phbnM6OkFjdGlvbjo6ImFkZCIsCiAgSmFuczo6QWN0aW9uOjoidXBkYXRlIiwKICBKYW5zOjpBY3Rpb246OiJ2aWV3IiwKICBKYW5zOjpBY3Rpb246OiJkZWxldGUiXSwKICByZXNvdXJjZSBpcyBKYW5zOjpDbGllbnRzUmVzb3VyY2UKKTs="
+                },
+                "ce08f93238494c203a705b18b4894c511f8bba92bbc6": {
+                    "description": "SupportStaffCanManageClients",
+                    "creation_date": "2025-09-26T09:46:52.622614",
+                    "policy_content": "QGlkKCJTdXBwb3J0U3RhZmZDYW5NYW5hZ2VDbGllbnRzIikKcGVybWl0KAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoic3VwcG9ydHN0YWZmIiwKICBhY3Rpb24gaW4gW0phbnM6OkFjdGlvbjo6ImxvY2siLAogIEphbnM6OkFjdGlvbjo6InVubG9jayJdLAogIHJlc291cmNlIGlzIEphbnM6OlVzZXJzUmVzb3VyY2UKKTs="
                 }
             },
             "trusted_issuers": {},
