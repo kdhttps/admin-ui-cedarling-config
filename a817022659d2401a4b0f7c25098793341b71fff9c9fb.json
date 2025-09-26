@@ -34,6 +34,11 @@
                     "description": "ManagerCanManageCustomScripts",
                     "creation_date": "2025-09-26T02:59:02.745154",
                     "policy_content": "QGlkKCJNYW5hZ2VyQ2FuTWFuYWdlQ3VzdG9tU2NyaXB0cyIpCnBlcm1pdCgKICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6Im1hbmFnZXIiLAogIGFjdGlvbiBpbiBbSmFuczo6QWN0aW9uOjoiYWRkIiwKICBKYW5zOjpBY3Rpb246OiJ1cGRhdGUiLAogIEphbnM6OkFjdGlvbjo6InZpZXciLAogIEphbnM6OkFjdGlvbjo6ImRlbGV0ZSJdLAogIHJlc291cmNlIGlzIEphbnM6OlNjcmlwdHNSZXNvdXJjZQopOw=="
+                },
+                "1bee8b7740c0121efcaee4e2624e28401575f15a3126": {
+                    "description": "AuditorCanManageSystemMonitoring",
+                    "creation_date": "2025-09-26T03:41:58.024219",
+                    "policy_content": "QGlkKCJBdWRpdG9yQ2FuTWFuYWdlU3lzdGVtTW9uaXRvcmluZyIpCnBlcm1pdCgKICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6ImF1ZGl0b3IiLAogIGFjdGlvbiBpbiBbSmFuczo6QWN0aW9uOjoiYWRkIiwKICBKYW5zOjpBY3Rpb246OiJ1cGRhdGUiLAogIEphbnM6OkFjdGlvbjo6InZpZXciLAogIEphbnM6OkFjdGlvbjo6ImRlbGV0ZSJdLAogIHJlc291cmNlIGlzIEphbnM6OlN5c3RlbUFuZE1vbml0b3JpbmdSZXNvdXJjZQopOw=="
                 }
             },
             "trusted_issuers": {},
