@@ -8,7 +8,7 @@
                 "c7c54308e8fde43667715827ac9e316725870939d8d4": {
                     "description": "AdminCanManageAuthServerConfiguration",
                     "creation_date": "2025-09-24T16:23:47.454734",
-                    "policy_content": "QGlkKCJBZG1pbkNhbk1hbmFnZUF1dGhTZXJ2ZXJDb25maWd1cmF0aW9uIikKcGVybWl0KAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiYWRtaW4iLAogIGFjdGlvbiBpbiBbSmFuczo6QWN0aW9uOjoiYWRkIiwKICBKYW5zOjpBY3Rpb246OiJ1cGRhdGUiLAogIEphbnM6OkFjdGlvbjo6InZpZXciLAogIEphbnM6OkFjdGlvbjo6ImRlbGV0ZSJdLAogIHJlc291cmNlIGlzIEphbnM6OkF1dGhTZXJ2ZXJDb25maWd1cmF0aW9uUmVzb3VyY2UKKTs="
+                    "policy_content": "QGlkKCJBZG1pbkNhbk1hbmFnZUF1dGhTZXJ2ZXJDb25maWd1cmF0aW9uIikKcGVybWl0KAogIHByaW5jaXBhbCBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSb2xlOjoiYWRtaW4iLAogIGFjdGlvbiBpbiBbR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoiYWRkIiwKICBHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJ1cGRhdGUiLAogIEdsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6InZpZXciLAogIEdsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6ImRlbGV0ZSJdLAogIHJlc291cmNlIGlzIEdsdXU6OkZsZXg6OkFkbWluVUk6OkF1dGhTZXJ2ZXJDb25maWd1cmF0aW9uUmVzb3VyY2UKKTs="
                 },
                 "2f4f2ea54efa751f08e8df462a187d9a9789b574f438": {
                     "description": "AdminCanManageUserIdentityAndAccess",
