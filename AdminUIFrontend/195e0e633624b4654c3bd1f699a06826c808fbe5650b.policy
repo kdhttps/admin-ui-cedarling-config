@@ -1,9 +1,9 @@
 @id("AdminCanManageSystemMonitoring")
 permit(
-  principal in Jans::Role::"admin",
-  action in [Jans::Action::"add",
-  Jans::Action::"update",
-  Jans::Action::"view",
-  Jans::Action::"delete"],
-  resource is Jans::SystemAndMonitoringResource
+  principal in Gluu::Flex::AdminUI::Role::"admin",
+  action in [Gluu::Flex::AdminUI::Action::"add",
+  Gluu::Flex::AdminUI::Action::"update",
+  Gluu::Flex::AdminUI::Action::"view",
+  Gluu::Flex::AdminUI::Action::"delete"],
+  resource is Gluu::Flex::AdminUI::SystemAndMonitoringResource
 );
