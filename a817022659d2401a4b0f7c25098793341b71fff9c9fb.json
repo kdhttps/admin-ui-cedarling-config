@@ -54,11 +54,6 @@
                     "description": "EndUserCanManageClients",
                     "creation_date": "2025-09-26T10:05:23.131259",
                     "policy_content": "QGlkKCJFbmRVc2VyQ2FuTWFuYWdlQ2xpZW50cyIpCnBlcm1pdCgKICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6ImVuZHVzZXIiLAogIGFjdGlvbiBpbiBbSmFuczo6QWN0aW9uOjoidXBkYXRlIl0sCiAgcmVzb3VyY2UgaXMgSmFuczo6UHJvZmlsZVJlc291cmNlCik7"
-                },
-                "8f1b31b29749ef4d9fb836aa41382f05a6307729f64a": {
-                    "description": "APIAdminCanManageAuthServerConfiguration",
-                    "creation_date": "2025-09-30T12:44:26.949395",
-                    "policy_content": "QGlkKCJBUElBZG1pbkNhbk1hbmFnZUF1dGhTZXJ2ZXJDb25maWd1cmF0aW9uIikKcGVybWl0KAogIHByaW5jaXBhbCBpbiBHbHV1OjpGbGV4OjpDb25maWdBUEk6OlJvbGU6OiJhZG1pbiIsCiAgYWN0aW9uIGluIFtHbHV1OjpGbGV4OjpDb25maWdBUEk6OkFjdGlvbjo6ImFkZCJdLAogIHJlc291cmNlIGlzIEdsdXU6OkZsZXg6OkNvbmZpZ0FQSTo6QXR0cmlidXRlc1Jlc291cmNlCik7"
                 }
             },
             "trusted_issuers": {},
