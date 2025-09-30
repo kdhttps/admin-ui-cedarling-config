@@ -1,6 +1,0 @@
-@id("APIAdminCanManageAuthServerConfiguration")
-permit(
-  principal in Gluu::Flex::ConfigAPI::Role::"admin",
-  action in [Gluu::Flex::ConfigAPI::Action::"add"],
-  resource is Gluu::Flex::ConfigAPI::AttributesResource
-);
