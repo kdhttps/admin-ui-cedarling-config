@@ -1,0 +1,10 @@
+@id("DeveloperCanAccessClients")
+permit(
+  principal in Gluu::Flex::ConfigAPI::Role::"developer",
+  action in [Gluu::Flex::ConfigAPI::Action::"GET",
+  Gluu::Flex::ConfigAPI::Action::"POST",
+  Gluu::Flex::ConfigAPI::Action::"PUT",
+  Gluu::Flex::ConfigAPI::Action::"DELETE",
+  Gluu::Flex::ConfigAPI::Action::"PATCH"],
+  resource is Gluu::Flex::ConfigAPI::OAuthClientsResource
+);
