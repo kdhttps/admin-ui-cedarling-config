@@ -9,6 +9,11 @@
                     "description": "AdminCanManageConfiguration",
                     "creation_date": "2025-10-01T13:03:14.212988",
                     "policy_content": "QGlkKCJBZG1pbkNhbk1hbmFnZUNvbmZpZ3VyYXRpb24iKQpwZXJtaXQoCiAgcHJpbmNpcGFsIGluIEdsdXU6OkZsZXg6OkNvbmZpZ0FQSTo6Um9sZTo6ImFkbWluIiwKICBhY3Rpb24gaW4gW0dsdXU6OkZsZXg6OkNvbmZpZ0FQSTo6QWN0aW9uOjoiR0VUIiwKICBHbHV1OjpGbGV4OjpDb25maWdBUEk6OkFjdGlvbjo6IlBPU1QiLAogIEdsdXU6OkZsZXg6OkNvbmZpZ0FQSTo6QWN0aW9uOjoiUFVUIiwKICBHbHV1OjpGbGV4OjpDb25maWdBUEk6OkFjdGlvbjo6IkRFTEVURSIsCiAgR2x1dTo6RmxleDo6Q29uZmlnQVBJOjpBY3Rpb246OiJQQVRDSCJdLAogIHJlc291cmNlIGlzIEdsdXU6OkZsZXg6OkNvbmZpZ0FQSTo6Q29uZmlndXJhdGlvblJlc291cmNlCik7"
+                },
+                "23283a9674556d04b228aa797d85cd057219bcae8e20": {
+                    "description": "AdminCanManageAuthnAuthz",
+                    "creation_date": "2025-10-01T13:17:35.471768",
+                    "policy_content": "QGlkKCJBZG1pbkNhbk1hbmFnZUF1dGhuQXV0aHoiKQpwZXJtaXQoCiAgcHJpbmNpcGFsIGluIEdsdXU6OkZsZXg6OkNvbmZpZ0FQSTo6Um9sZTo6ImFkbWluIiwKICBhY3Rpb24gaW4gW0dsdXU6OkZsZXg6OkNvbmZpZ0FQSTo6QWN0aW9uOjoiR0VUIiwKICBHbHV1OjpGbGV4OjpDb25maWdBUEk6OkFjdGlvbjo6IlBPU1QiLAogIEdsdXU6OkZsZXg6OkNvbmZpZ0FQSTo6QWN0aW9uOjoiUFVUIiwKICBHbHV1OjpGbGV4OjpDb25maWdBUEk6OkFjdGlvbjo6IkRFTEVURSIsCiAgR2x1dTo6RmxleDo6Q29uZmlnQVBJOjpBY3Rpb246OiJQQVRDSCJdLAogIHJlc291cmNlIGlzIEdsdXU6OkZsZXg6OkNvbmZpZ0FQSTo6QXV0aG5BdXRoelJlc291cmNlCik7"
                 }
             },
             "trusted_issuers": {},
