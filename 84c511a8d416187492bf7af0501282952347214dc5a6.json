@@ -29,6 +29,11 @@
                     "description": "DeveloperCanAccessClients",
                     "creation_date": "2025-10-01T14:01:39.933532",
                     "policy_content": "QGlkKCJEZXZlbG9wZXJDYW5BY2Nlc3NDbGllbnRzIikKcGVybWl0KAogIHByaW5jaXBhbCBpbiBHbHV1OjpGbGV4OjpDb25maWdBUEk6OlJvbGU6OiJkZXZlbG9wZXIiLAogIGFjdGlvbiBpbiBbR2x1dTo6RmxleDo6Q29uZmlnQVBJOjpBY3Rpb246OiJHRVQiLAogIEdsdXU6OkZsZXg6OkNvbmZpZ0FQSTo6QWN0aW9uOjoiUE9TVCIsCiAgR2x1dTo6RmxleDo6Q29uZmlnQVBJOjpBY3Rpb246OiJQVVQiLAogIEdsdXU6OkZsZXg6OkNvbmZpZ0FQSTo6QWN0aW9uOjoiREVMRVRFIiwKICBHbHV1OjpGbGV4OjpDb25maWdBUEk6OkFjdGlvbjo6IlBBVENIIl0sCiAgcmVzb3VyY2UgaXMgR2x1dTo6RmxleDo6Q29uZmlnQVBJOjpPQXV0aENsaWVudHNSZXNvdXJjZQopOw=="
+                },
+                "eecf71c997d55ec6fb73870e99bd28ea6499182484ad": {
+                    "description": "DeveloperCanAccessCustomScript",
+                    "creation_date": "2025-10-01T14:11:39.837596",
+                    "policy_content": "QGlkKCJEZXZlbG9wZXJDYW5BY2Nlc3NDdXN0b21TY3JpcHQiKQpwZXJtaXQoCiAgcHJpbmNpcGFsIGluIEdsdXU6OkZsZXg6OkNvbmZpZ0FQSTo6Um9sZTo6ImRldmVsb3BlciIsCiAgYWN0aW9uIGluIFtHbHV1OjpGbGV4OjpDb25maWdBUEk6OkFjdGlvbjo6IkdFVCIsCiAgR2x1dTo6RmxleDo6Q29uZmlnQVBJOjpBY3Rpb246OiJQT1NUIiwKICBHbHV1OjpGbGV4OjpDb25maWdBUEk6OkFjdGlvbjo6IlBVVCIsCiAgR2x1dTo6RmxleDo6Q29uZmlnQVBJOjpBY3Rpb246OiJERUxFVEUiLAogIEdsdXU6OkZsZXg6OkNvbmZpZ0FQSTo6QWN0aW9uOjoiUEFUQ0giXSwKICByZXNvdXJjZSBpcyBHbHV1OjpGbGV4OjpDb25maWdBUEk6OkN1c3RvbVNjcmlwdFJlc291cmNlCik7"
                 }
             },
             "trusted_issuers": {},
