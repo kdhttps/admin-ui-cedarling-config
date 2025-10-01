@@ -19,6 +19,11 @@
                     "description": "AdminCanDeleteSSA",
                     "creation_date": "2025-10-01T13:39:26.153245",
                     "policy_content": "QGlkKCJBZG1pbkNhbkRlbGV0ZVNTQSIpCnBlcm1pdCgKICBwcmluY2lwYWwgaW4gR2x1dTo6RmxleDo6Q29uZmlnQVBJOjpSb2xlOjoiYWRtaW4iLAogIGFjdGlvbiBpbiBbR2x1dTo6RmxleDo6Q29uZmlnQVBJOjpBY3Rpb246OiJERUxFVEUiXSwKICByZXNvdXJjZSBpcyBHbHV1OjpGbGV4OjpDb25maWdBUEk6OlNTQVJlc291cmNlCik7"
+                },
+                "256580a27321aa179436f859e99a9762b74be2cc88c7": {
+                    "description": "ManagerCanAccessAuthnAuthz",
+                    "creation_date": "2025-10-01T13:45:34.192680",
+                    "policy_content": "QGlkKCJNYW5hZ2VyQ2FuQWNjZXNzQXV0aG5BdXRoeiIpCnBlcm1pdCgKICBwcmluY2lwYWwgaW4gR2x1dTo6RmxleDo6Q29uZmlnQVBJOjpSb2xlOjoibWFuYWdlciIsCiAgYWN0aW9uIGluIFtHbHV1OjpGbGV4OjpDb25maWdBUEk6OkFjdGlvbjo6IkdFVCIsCiAgR2x1dTo6RmxleDo6Q29uZmlnQVBJOjpBY3Rpb246OiJQT1NUIiwKICBHbHV1OjpGbGV4OjpDb25maWdBUEk6OkFjdGlvbjo6IlBVVCIsCiAgR2x1dTo6RmxleDo6Q29uZmlnQVBJOjpBY3Rpb246OiJERUxFVEUiLAogIEdsdXU6OkZsZXg6OkNvbmZpZ0FQSTo6QWN0aW9uOjoiUEFUQ0giXSwKICByZXNvdXJjZSBpcyBHbHV1OjpGbGV4OjpDb25maWdBUEk6OkF1dGhuQXV0aHpSZXNvdXJjZQopOw=="
                 }
             },
             "trusted_issuers": {},
